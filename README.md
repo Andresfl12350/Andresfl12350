@@ -1,7 +1,4 @@
-
-
-
-[![Header]([(https://img.freepik.com/foto-gratis/pantalla-escaneo-programador-su-reloj-inteligente-camara-telefono-inteligente_1098-18710.jpg?w=2000) "Header")]
+![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/2.png)
 
 [![twitch](https://img.shields.io/static/v1?label=&message=twitch&color=6441a5&logo=twitch&logoColor=white&style=for-the-badge)](https://twitch.tv/Zain_ttv_)
 [![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/fl_andres_garcia/)
