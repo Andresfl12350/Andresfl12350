@@ -1,4 +1,20 @@
-<h1 align="center">Hi 👋, Me llamo Andrés García</h1>
+
+[![Header]([https://eduardofierro.pro/assets/thumb/github-cover.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.aulaformativa.com%2Ffondos-de-pantalla-para-programadores%2F&psig=AOvVaw0Q2CKzah_Jffe-_aG9tLED&ust=1675195383593000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiFiaiL8PwCFQAAAAAdAAAAABAD) "Header")]
+
+[![twitch](https://img.shields.io/static/v1?label=&message=twitch&color=6441a5&logo=twitch&logoColor=white&style=for-the-badge)](https://twitch.tv/Zain_ttv_)
+[![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/fl_andres_garcia/)
+[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/andresfl/)
+[![discord](https://img.shields.io/static/v1?label=&message=discord&color=7289da&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/t4Txush)
+[![twitter](https://img.shields.io/static/v1?label=&message=twitter&color=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge)](Zain#1347)
+[![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/andresfl12350)
+
+
+
+
+## 👉 Sobre mí
+Soy un **Desarrollador Frontend** y **Estudiante en la Universidad Tecnica de Ambato.
+
+<h1 align="center">Hola 👋, Me llamo Andrés García</h1>
 <h3 align="center">Soy un Frontend apasionado</h3>
 
 - 💬 Ask me about **html, css, javascript, typescript y angular**
