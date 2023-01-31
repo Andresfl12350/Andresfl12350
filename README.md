@@ -15,7 +15,7 @@ Soy un **Desarrollador Frontend** y **Estudiante en la Universidad Tecnica de Am
 <h1 align="center">Hola 👋, Me llamo Andrés García</h1>
 <h3 align="center">Soy un Frontend apasionado</h3>
 
-- 💬 Ask me about **html, css, javascript, typescript y angular**
+- 💬 Preguntame sobre **html, css, javascript, typescript y angular**
 
 
 <h3 align="left">LEnguajes y Herrramientas:</h3>
