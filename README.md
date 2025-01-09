@@ -13,10 +13,10 @@
 VISITA MI PAGINA WEB !!!
 https://andresfl12350.github.io/Pagina-Web/index.html <3 
 
-Soy un **Desarrollador Frontend** y **Estudiante en la Universidad Tecnica de Ambato.
+Soy un **Desarrollador Frontend y Backend** y **Ingeniero de Sotware.
 
 <h1 align="center">Hola 👋, Me llamo Andrés García</h1>
-<h3 align="center">Soy un Frontend apasionado</h3>
+<h3 align="center">Soy un Frontend y Backend apasionado</h3>
 
 - 💬 Preguntame sobre **html, css, javascript, typescript y angular**
 
